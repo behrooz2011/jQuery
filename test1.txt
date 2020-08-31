@@ -1,1 +1,1 @@
-this a test txt file created by echo and redirecting
+this is a test txt file created by echo and redirecting
